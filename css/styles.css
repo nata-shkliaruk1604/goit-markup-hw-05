@@ -675,7 +675,7 @@ img {
 }
 
 .modal-checkbox {
-  margin-bottom: 24px;
+  margin-bottom: 16px;
 }
 
 .modal-check-text {
@@ -693,7 +693,7 @@ img {
   }
 }
 
-.modal-checkbox {
+.modal-check {
   width: 16px;
   height: 16px;
   border-radius: 2px;
